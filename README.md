@@ -1,2 +1,3 @@
 # C0nsult3r_D4nG3r.py
-[Python] Script de Consultas (CNPJ, Placas(CARRO), Bin, Filmes)
+
+for consultation of information about legal persons, business records (CNPJ), car plate. and movie records on IMDB
